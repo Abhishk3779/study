@@ -116,7 +116,7 @@ body {
 /* events section start*/
 #events {
     text-align: center;
-    background-image: url("../img/testimonial.webp");
+    background-image: url("img/testimonial.webp");
     background-size: 100% 100%;
 }
 
@@ -170,32 +170,32 @@ body {
 }
 
 #event-1-img {
-    background-image: url("/img/event1.webp");
+    background-image: url("img/event1.webp");
     background-size: cover;
     height: 390px;
  
 }
 
 #event-2-img {
-    background-image: url("/img/event2.webp");
+    background-image: url("img/event2.webp");
     background-size: cover;
     height: 390px;
 }
 
 #event-3-img {
-    background-image: url("/img/event3.webp");
+    background-image: url("img/event3.webp");
     background-size: cover;
     height: 390px;
 }
 
 #event-4-img {
-    background-image: url("/img/event2.webp");
+    background-image: url("img/event2.webp");
     background-size: cover;
     height: 390px;
 }
 
 #event-5-img {
-    background-image: url("/img/event1.webp");
+    background-image: url("img/event1.webp");
     background-size: cover;
     height: 390px;
 }
